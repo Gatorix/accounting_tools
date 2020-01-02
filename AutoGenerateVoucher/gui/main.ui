@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+    <class>Dialog</class>
+    <widget class="QDialog" name="Dialog">
+        <property name="windowModality">
+            <enum>Qt::ApplicationModal</enum>
+        </property>
+        <property name="enabled">
+            <bool>true</bool>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>251</width>
+                <height>267</height>
+            </rect>
+        </property>
+        <property name="font">
+            <font>
+                <family>Microsoft JhengHei</family>
+                <pointsize>10</pointsize>
+            </font>
+        </property>
+        <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+        </property>
+        <property name="contextMenuPolicy">
+            <enum>Qt::NoContextMenu</enum>
+        </property>
+        <property name="acceptDrops">
+            <bool>true</bool>
+        </property>
+        <property name="windowTitle">
+            <string>Auto-Generater V1.2</string>
+        </property>
+        <property name="windowIcon">
+            <iconset>
+                <normalon>pics/Icon.png</normalon>
+            </iconset>
+        </property>
+        <property name="toolTip">
+            <string/>
+        </property>
+        <property name="accessibleName">
+            <string/>
+        </property>
+        <property name="autoFillBackground">
+            <bool>true</bool>
+        </property>
+        <property name="inputMethodHints">
+            <set>Qt::ImhNone</set>
+        </property>
+        <layout class="QGridLayout" name="gridLayout">
+            <item row="2" column="0">
+                <widget class="QLabel" name="label_5">
+                    <property name="text">
+                        <string>业务类型：</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="1" column="0">
+                <widget class="QLabel" name="label">
+                    <property name="text">
+                        <string>凭证日期：</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="4" column="0">
+                <widget class="QLabel" name="label_3">
+                    <property name="text">
+                        <string>制单人：</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="5" column="0">
+                <widget class="QLabel" name="label_4">
+                    <property name="text">
+                        <string>通道名称：</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="5" column="1" colspan="4">
+                <widget class="QLineEdit" name="lineEdit">
+                    <property name="placeholderText">
+                        <string>物联网业务必填</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="1" column="1" colspan="4">
+                <widget class="QDateEdit" name="dateEdit">
+                    <property name="dateTime">
+                        <datetime>
+                            <hour>0</hour>
+                            <minute>0</minute>
+                            <second>0</second>
+                            <year>2018</year>
+                            <month>1</month>
+                            <day>1</day>
+                        </datetime>
+                    </property>
+                    <property name="timeSpec">
+                        <enum>Qt::TimeZone</enum>
+                    </property>
+                </widget>
+            </item>
+            <item row="0" column="1" colspan="4">
+                <widget class="QComboBox" name="comboBox">
+                    <item>
+                        <property name="text">
+                            <string/>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>收入</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>成本</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>收款</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>付款</string>
+                        </property>
+                    </item>
+                </widget>
+            </item>
+            <item row="6" column="0" colspan="5">
+                <widget class="QTextBrowser" name="textBrowser">
+                    <property name="frameShape">
+                        <enum>QFrame::HLine</enum>
+                    </property>
+                </widget>
+            </item>
+            <item row="2" column="1" colspan="4">
+                <widget class="QComboBox" name="comboBox_3">
+                    <item>
+                        <property name="text">
+                            <string/>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>流量</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>语音</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>物联网</string>
+                        </property>
+                    </item>
+                </widget>
+            </item>
+            <item row="7" column="3" colspan="2">
+                <widget class="QPushButton" name="pushButton_2">
+                    <property name="text">
+                        <string>退出</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="4" column="1" colspan="4">
+                <widget class="QComboBox" name="comboBox_2">
+                    <item>
+                        <property name="text">
+                            <string/>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>黎光波</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>王静</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>张哲</string>
+                        </property>
+                    </item>
+                    <item>
+                        <property name="text">
+                            <string>林嘉铭</string>
+                        </property>
+                    </item>
+                </widget>
+            </item>
+            <item row="0" column="0">
+                <widget class="QLabel" name="label_2">
+                    <property name="text">
+                        <string>凭证类型：</string>
+                    </property>
+                </widget>
+            </item>
+            <item row="7" column="2">
+                <widget class="QPushButton" name="pushButton">
+                    <property name="text">
+                        <string>生成凭证</string>
+                    </property>
+                </widget>
+            </item>
+        </layout>
+    </widget>
+    <resources/>
+    <connections/>
+</ui>

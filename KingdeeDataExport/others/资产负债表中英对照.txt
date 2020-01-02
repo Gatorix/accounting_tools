@@ -1,0 +1,71 @@
+　资产负债表-中英文对照
+
+资产	Assets
+流动资产	Current assets
+货币资金	Cash at bank and on hand
+交易性金融资产	Financial assets held for trading
+应收票据	Notes receivable
+应收账款	Accounts receivable
+预付款项	Advances to suppliers
+应收利息	Interest receivable
+应收股利	Dividends receivable
+其他应收款	Other receivables
+存货	Inventories
+一年内到期的非流动资产	Current portion of non-current assets
+其他流动资产	Other current assets
+流动资产合计	Total current assets
+非流动资产	Non-current assets
+可供出售金融资产	Available-for-sale financial assets
+持有至到期投资	Held-to-maturity investments
+长期应收款	Long-term receivables
+长期股权投资	Long-term equity investments
+投资性房地产	Investment properties
+固定资产	Fixed assets
+在建工程	Construction in progress
+工程物资	Construction materials
+固定资产清理	Fixed assets pending for disposal
+生产性生物资产	Bearer biological assets
+油气资产	Oil and gas assets
+无形资产	Intangible assets
+开发支出	Development costs
+商誉	Goodwill
+长期待摊费用	Long-term prepaid expenses
+递延所得税资产	Deferred tax assets
+其他非流动资产	Other non-current assets
+非流动资产合计	Total non-current assets
+资产总计	Total assets
+负债及所有者权益	Liabilities and owners’ equity
+流动负债	Current liabilities
+短期借款	Short-term borrowings
+交易性金融负债	Financial liabilities held for trading
+应付票据	Notes payable
+应付账款	Accounts payable
+预收款项	Advances from customers
+应付职工薪酬	Employee benefits payable
+应交税费	Taxes payable
+应付利息	Interest payable
+应付股利	Dividends payable
+其他应收款	Other payables
+一年内到期的非流动负债	Current portion of non-current liabilities
+其他流动负债	Other non-current liabilities
+流动负债合计	Total current liabilities
+非流动负债	Non-current liabilities
+长期借款	Long-term borrowings
+应付债券	Debentures payable
+长期应付款	Long-term payable
+专项应付款	Payables for specific projects
+预计负债	Provisions
+递延所得税负债	Deferred tax liabilities
+其他非流动负债	Other non-current liabilities
+非流动负债合计	Total non-current liabilities
+负债合计	Total liabilities
+所有者权益	Owners’ equity
+实收资本	Paid-in capital
+资本公积	Capital surplus
+盈余公积	Surplus reserve
+未分配利润	Undistributed profits
+外币报表折算差额	Difference on translation of foreign currency financial statements
+归属于母公司所有者权益合计	Total equity attributable to equity holders of the Company
+少数股东权益	Minority interest
+所有者权益合计	Total owners’ equity
+负债及所有者权益合计	Total liabilities and owners’ equity

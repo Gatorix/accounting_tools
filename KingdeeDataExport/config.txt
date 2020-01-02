@@ -1,0 +1,17 @@
+[data]
+
+year = 2018
+
+begin_period = 1
+
+end_period = 12
+
+level = 10
+
+fnumber_begin = 1001
+
+fnumber_end = 9999
+
+split_mon = y
+
+split_file = y
