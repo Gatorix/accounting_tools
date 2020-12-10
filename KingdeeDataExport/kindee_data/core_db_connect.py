@@ -55,8 +55,8 @@ class SQLServer:
 
 
 def connect_db():
-    return SQLServer(server='172.16.1.20', user='sa',
-                     password='kingdee@123', database='master')
+    return SQLServer(server='...', user='',
+                     password='', database='master')
 
 
 def get_all_db_company(msg):
